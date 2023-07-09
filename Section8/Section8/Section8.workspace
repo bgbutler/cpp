@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="IncrDecr" Path="IncrDecr/IncrDecr.project" Active="No"/>
+  <Project Name="Conversions" Path="Conversions/Conversions.project" Active="No"/>
+  <Project Name="Equality" Path="../Equality/Equality/Equality.project" Active="No"/>
+  <Project Name="Logic" Path="../Logic/Logic/Logic.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeOpt2" Path="../ChallengeOpt2/ChallengeOpt2/ChallengeOpt2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="IncrDecr" ConfigName="Debug"/>
+      <Project Name="Conversions" ConfigName="Debug"/>
+      <Project Name="Equality" ConfigName="Debug"/>
+      <Project Name="Logic" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeOpt2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="IncrDecr" ConfigName="Release"/>
+      <Project Name="Conversions" ConfigName="Release"/>
+      <Project Name="Equality" ConfigName="Release"/>
+      <Project Name="Logic" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeOpt2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointers" Database="" Version="10000">
+  <Project Name="DeclPointers" Path="../DeclPointers/DeclPointers/DeclPointers.project" Active="No"/>
+  <Project Name="DeRefPointers" Path="../DeRefPointers/DeRefPointers/DeRefPointers.project" Active="No"/>
+  <Project Name="DynamicMem" Path="../DynamicMem/DynamicMem/DynamicMem.project" Active="No"/>
+  <Project Name="ArraysPointers" Path="../ArraysPointers/ArraysPointers/ArraysPointers.project" Active="No"/>
+  <Project Name="PointerArithmetic" Path="../PointerArithmetic/PointerArithmetic/PointerArithmetic.project" Active="No"/>
+  <Project Name="PointersFunctions" Path="../PointersFunctions/PointersFunctions/PointersFunctions.project" Active="No"/>
+  <Project Name="ReturnPointers" Path="../ReturnPointers/ReturnPointers/ReturnPointers.project" Active="No"/>
+  <Project Name="References" Path="../References/References/References.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclPointers" ConfigName="Debug"/>
+      <Project Name="DeRefPointers" ConfigName="Debug"/>
+      <Project Name="DynamicMem" ConfigName="Debug"/>
+      <Project Name="ArraysPointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="PointersFunctions" ConfigName="Debug"/>
+      <Project Name="ReturnPointers" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclPointers" ConfigName="Release"/>
+      <Project Name="DeRefPointers" ConfigName="Release"/>
+      <Project Name="DynamicMem" ConfigName="Release"/>
+      <Project Name="ArraysPointers" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
+      <Project Name="PointersFunctions" ConfigName="Release"/>
+      <Project Name="ReturnPointers" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

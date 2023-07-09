@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ArraysVectors" Database="" Version="10000">
+  <Project Name="Arrays1" Path="Arrays1/Arrays1.project" Active="No"/>
+  <Project Name="Vectors" Path="ArraysVectors/ArraysVectors.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Arrays1" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Arrays1" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

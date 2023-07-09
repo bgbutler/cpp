@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Functions" Database="" Version="10000">
+  <Project Name="cmath" Path="../cmath/cmath/cmath.project" Active="Yes"/>
+  <Project Name="DefFunction" Path="../DefFunction/DefFunction/DefFunction.project" Active="No"/>
+  <Project Name="FuncPrototypes" Path="../FuncPrototypes/FuncPrototypes/FuncPrototypes.project" Active="No"/>
+  <Project Name="FuncParams" Path="../FuncParams/FuncParams/FuncParams.project" Active="No"/>
+  <Project Name="DefaultArgs" Path="../DefaultArgs/DefaultArgs/DefaultArgs.project" Active="No"/>
+  <Project Name="FuncOverload" Path="../FuncOverload/FuncOverload/FuncOverload.project" Active="No"/>
+  <Project Name="ArraysAndFunctions" Path="../ArraysAndFunctions/ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
+  <Project Name="PassbyReference" Path="../PassbyReference/PassbyReference/PassbyReference.project" Active="No"/>
+  <Project Name="RecursionFibonacci" Path="../Recursion/Recursion/Recursion.project" Active="No"/>
+  <Project Name="RecursionFactorial" Path="../Factorial/Factorial/Factorial.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="cmath" ConfigName="Debug"/>
+      <Project Name="DefFunction" ConfigName="Debug"/>
+      <Project Name="FuncPrototypes" ConfigName="Debug"/>
+      <Project Name="FuncParams" ConfigName="Debug"/>
+      <Project Name="DefaultArgs" ConfigName="Debug"/>
+      <Project Name="FuncOverload" ConfigName="Debug"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
+      <Project Name="PassbyReference" ConfigName="Debug"/>
+      <Project Name="RecursionFibonacci" ConfigName="Debug"/>
+      <Project Name="RecursionFactorial" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="cmath" ConfigName="Release"/>
+      <Project Name="DefFunction" ConfigName="Release"/>
+      <Project Name="FuncPrototypes" ConfigName="Release"/>
+      <Project Name="FuncParams" ConfigName="Release"/>
+      <Project Name="DefaultArgs" ConfigName="Release"/>
+      <Project Name="FuncOverload" ConfigName="Release"/>
+      <Project Name="ArraysAndFunctions" ConfigName="Release"/>
+      <Project Name="PassbyReference" ConfigName="Release"/>
+      <Project Name="RecursionFibonacci" ConfigName="Release"/>
+      <Project Name="RecursionFactorial" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="If" Path="../If/If/If.project" Active="No"/>
+  <Project Name="ifElse" Path="../ifElse/ifElse/ifElse.project" Active="No"/>
+  <Project Name="Switch" Path="../Switch/Switch/Switch.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="../SwitchEnum/SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="Conditional" Path="../Conditional/Conditional/Conditional.project" Active="No"/>
+  <Project Name="ForLoops" Path="../Loops/Loops/Loops.project" Active="No"/>
+  <Project Name="RangeForLoop" Path="../RangeForLoop/RangeForLoop/RangeForLoop.project" Active="No"/>
+  <Project Name="WhileLoop" Path="../WhileLoop/WhileLoop/WhileLoop.project" Active="No"/>
+  <Project Name="DoWhile" Path="../DoWhile/DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="NestedLoops" Path="../NestedLoops/NestedLoops/NestedLoops.project" Active="No"/>
+  <Project Name="Histogram" Path="../Histogram/Histogram/Histogram.project" Active="No"/>
+  <Project Name="SumProduct" Path="../SumProduct/SumProduct/SumProduct.project" Active="No"/>
+  <Project Name="Challenge" Path="../Challenge/Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="If" ConfigName="Debug"/>
+      <Project Name="ifElse" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="Conditional" ConfigName="Debug"/>
+      <Project Name="ForLoops" ConfigName="Debug"/>
+      <Project Name="RangeForLoop" ConfigName="Debug"/>
+      <Project Name="WhileLoop" ConfigName="Debug"/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
+      <Project Name="NestedLoops" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="SumProduct" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="If" ConfigName="Release"/>
+      <Project Name="ifElse" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="Conditional" ConfigName="Release"/>
+      <Project Name="ForLoops" ConfigName="Release"/>
+      <Project Name="RangeForLoop" ConfigName="Release"/>
+      <Project Name="WhileLoop" ConfigName="Release"/>
+      <Project Name="DoWhile" ConfigName="Release"/>
+      <Project Name="NestedLoops" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="SumProduct" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

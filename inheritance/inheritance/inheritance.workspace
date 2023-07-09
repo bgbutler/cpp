@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="inheritance" Database="" Version="10000">
+  <Project Name="DerivingFirstClass" Path="../DerivingFirstClass/DerivingFirstClass/DerivingFirstClass.project" Active="No"/>
+  <Project Name="ProtectedMembersClass" Path="../ProtectedMembersClass/ProtectedMembersClass/ProtectedMembersClass.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingFirstClass" ConfigName="Debug"/>
+      <Project Name="ProtectedMembersClass" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingFirstClass" ConfigName="Release"/>
+      <Project Name="ProtectedMembersClass" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
